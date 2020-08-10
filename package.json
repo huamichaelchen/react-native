@@ -55,7 +55,7 @@
     "optimist": "0.6.1",
     "q": "1.0.1",
     "sane": "1.0.1",
-    "uglify-js": "~2.4.16",
+    "uglify-js": "~3.10.1",
     "underscore": "1.7.0",
     "worker-farm": "1.1.0",
     "yargs": "1.3.2",
